@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    background-color: lightblue;
+    border: solid black;
+    padding: 10px;
+    text-align: center;
+    font-size: 48px;
+}
+
+ul {
+    list-style: none;
+}
+
+.card {
+    border: solid black;
+    text-align: center;
+    padding: auto;
+}
+
+.card li {
+    padding: 5px;
+}
+
+a {
+    font-size: 32px;
+}
